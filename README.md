@@ -60,3 +60,15 @@ Hence, Soul-Sync - A social media platform is specially designed to help people 
 9. Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.   
 
 10. Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.
+
+
+# Technology Stack
+  1. React-Native
+  2. Redux
+  3. Node.js
+  4. Express.js
+  5. Google Cloud Firestore
+  6. Firebase Cloud Functions
+  7. Firebase Realtime Database
+  8. Firebase Authentication
+     
