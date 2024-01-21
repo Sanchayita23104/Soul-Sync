@@ -39,3 +39,24 @@ With growing technologies and advancements, along with changes to the environmen
 Hence, Soul-Sync - A social media platform is specially designed to help people deal with their growing difficulty revolving around mental health. On times when nothing seems right, Soul-Sync is there to get yourself together, motivating you to be better for yoourself, with features like to-do lists, and streaks. Not only that, it makes healing a fun thing by therapeutic games and music. Got nobody to talk? Don't worry it has a supportive community where you are always having people around you sharing a progressive journey with you, with an addition to anonimous chatting so you can vent out all your worries with no worrries.
 
 
+# How the App works?
+
+1. As users open the app, the frontend, developed using React Native, prompts them to input their current mood on a scale of 1 to 10. The data is then securely transmitted to the backend, built on Node.js and Express.js, which stores the information in Google Cloud Firestore, a scalable NoSQL database.
+
+2. Utilizing Google Cloud Firestore, the backend dynamically fetches and serves personalized content based on the user's self-reported mood. The frontend, driven by React Native and Redux for state management, displays this content in a user-friendly format. 
+
+3. Personalized task suggestions, managed by the backend, are presented to users based on their mood. Firebase Cloud Functions come into play, executing serverless functions to process and deliver these suggestions. Users can then choose to engage with these tasks directly through the frontend.
+
+4. The app incorporates therapeutic games, seamlessly integrated using React Native. These games are designed to provide a positive and enjoyable experience for users. The frontend communicates with the backend to record user progress and achievements using Google Cloud Firestore.
+
+5. The meditation feature, powered by React Native components, guides users through sessions. Journaling, implemented with Firebase Realtime Database, allows users to store and retrieve personal reflections securely. Both features enhance mindfulness and are easily accessible through the frontend.
+
+6. The "Forest" feature is implemented using React Native components for the frontend and Google Cloud Firestore to store user progress. Users engage with the virtual forest by staying focused, with Firebase Cloud Functions managing rewards and updates to the user's forest status.
+
+7. Firebase Authentication ensures secure user logins, while anonymous chat functionality is facilitated by Firebase Cloud Functions. The backend orchestrates the anonymous chat feature, providing a safe space for users to connect and share experiences without revealing their identities.
+
+8. Various support groups and communities are hosted on the backend, with Google Cloud Firestore managing the data. React Native on the frontend allows users to seamlessly join, engage in discussions, and build connections within the supportive communities.
+
+9.Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.   
+
+10. Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.
