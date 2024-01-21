@@ -57,6 +57,6 @@ Hence, Soul-Sync - A social media platform is specially designed to help people 
 
 8. Various support groups and communities will be  hosted on the backend, with Google Cloud Firestore managing the data. React Native on the frontend allows users to seamlessly join, engage in discussions, and build connections within the supportive communities.
 
-9.Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.   
+9. Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.   
 
 10. Curated content, stored in Google Cloud Firestore, is easily accessible through the frontend. The content, ranging from articles to videos, is carefully chosen to break the cycle of mental illness, providing valuable insights for users navigating their mental health journey.
