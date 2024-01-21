@@ -1,5 +1,5 @@
 # Soul-Sync
-Soul-Sync is a compassionate and supportive social-media platform designed specifically for individuals facing mental health challenges such as anxiety, stress, and depression. This comprehensive app offers a range of features designed to promote well-being, self-care, and community support. It is a platform that recognizes the importance of mental health and aims to provide a holistic approach to well-being. It combines mood tracking, task suggestions, therapeutic games, meditation, and a supportive community to help users navigate the challenges of mental health.
+Soul-Sync is a compassionate and supportive social-media platform designed specifically for individuals facing mental health challenges such as anxiety, stress, depression, and various other mental ailness. This comprehensive app offers a range of features designed to promote well-being, self-care, and community support. It is a platform that recognizes the importance of mental health and aims to provide a holistic approach to well-being. It combines mood tracking, task suggestions, therapeutic games, meditation, and a supportive community to help users navigate the challenges of mental health.
 
 # Key features of this app
 1. Mood Tracking:
